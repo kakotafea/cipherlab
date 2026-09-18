@@ -1,0 +1,6 @@
+{
+  "name": "CipherLab",
+  "description": "Herramienta moderna para convertir y descifrar texto entre múltiples formatos: Hexadecimal, Binario, Base64, ASCII, Octal, César, Morse, Vigenère y más.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
